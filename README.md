@@ -1,33 +1,33 @@
 ATIVIDADE CRIAR 2 CLASSES EM PHP
-	*MEMBROS
-		*Atributos
-			*Nome
-			*Data de nascimento
-			*Cargo
-			*GRR
-			*Curso (BCC,IBM,TADS)
-		*Metodos
-			*construtor
-			*getNome
-			*getData	
+	* MEMBROS
+		* Atributos
+			* Nome
+			* Data de nascimento
+			* Cargo
+			* GRR
+			* Curso (BCC,IBM,TADS)
+		* Metodos
+			* construtor
+			* getNome
+			* getData	
 			* ...
-			*setNome
-			*setData
+			* setNome
+			* setData
 			* ...
-			*imprimeMembro
+			* imprimeMembro
 	*CURSOS
-		*Atributos
-			*Titulo
-			*Data
-			*Instrutor
-			*Presentes
+		* Atributos
+			* Titulo
+			* Data
+			* Instrutor
+			* Presentes
 		*Metodos	
-			*getTitulo
+			* getTitulo
 			* ...
-			*setTitulo
+			* setTitulo
 			* ...
-			*listaFrequencia
-*Output
+			* listaFrequencia
+* Output
 
 CURSO: Orientação à objetos e PHP
 DATA: 27/10/2016

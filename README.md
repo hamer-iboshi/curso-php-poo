@@ -27,7 +27,7 @@ ATIVIDADE CRIAR 2 CLASSES EM PHP
 			+setTitulo
 			+ ...
 			+listaFrequencia
-Output >>
+Output
 
 CURSO: Orientação à objetos e PHP
 DATA: 27/10/2016

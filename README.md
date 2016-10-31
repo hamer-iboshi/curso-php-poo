@@ -36,18 +36,18 @@ DATA: 27/10/2016
 INSTRUTOR: Hamer
 
 PRESENTES:
-Laura *same paragraph*
-Gabriele *same paragraph*
-Fernando *same paragraph*
-Luana *same paragraph*
-Fernanda B. *same paragraph*
-Fernanda C.*same paragraph*
-Victor*same paragraph*
-Rebeca*same paragraph*
-Marlon*same paragraph*
-Eduarda*same paragraph*
-Guilherme*same paragraph*
-Gabriel*same paragraph*
+######Laura
+######Gabriele 
+######Fernando
+######Luana 
+######Fernanda B.
+######Fernanda C.
+######Victor
+######Rebeca
+######Marlon
+######Eduarda
+######Guilherme
+######Gabriel
 
 ### Referências e dicas de leitura
 * Curso de PHP e Orientação à Objetos da Ecomp está disponível no drive:

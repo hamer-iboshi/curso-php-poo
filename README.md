@@ -15,13 +15,13 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 		* setData
 		* ...
 		* imprimeMembro
-*CURSOS
+* CURSOS
 	* Atributos
 		* Titulo
 		* Data
 		* Instrutor
 		* Presentes
-	*Metodos	
+	* Metodos	
 		* getTitulo
 		* ...
 		* setTitulo
@@ -30,21 +30,24 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 * Output
 
 CURSO: Orientação à objetos e PHP
+
 DATA: 27/10/2016
+
 INSTRUTOR: Hamer
+
 PRESENTES:
-	Laura
-	Gabriele
-	Fernando
-	Luana
-	Fernanda B.
-	Fernanda C.
-	Victor
-	Rebeca
-	Marlon
-	Eduarda
-	Guilherme
-	Gabriel
+... Laura
+... Gabriele
+... Fernando
+... Luana
+... Fernanda B.
+... Fernanda C.
+... Victor
+... Rebeca
+... Marlon
+... Eduarda
+... Guilherme
+... Gabriel
 
 ### Referências e dicas de leitura
 

@@ -36,22 +36,20 @@ DATA: 27/10/2016
 INSTRUTOR: Hamer
 
 PRESENTES:
-...Laura
-...Gabriele
-...Fernando
-...Luana
-...Fernanda B.
-...Fernanda C.
-...Victor
-...Rebeca
-...Marlon
-...Eduarda
-...Guilherme
-...Gabriel
+... Laura
+... Gabriele
+... Fernando
+... Luana
+... Fernanda B.
+... Fernanda C.
+... Victor
+... Rebeca
+... Marlon
+... Eduarda
+... Guilherme
+... Gabriel
 
 ### Referências e dicas de leitura
-* Curso de PHP e Orientação à Objetos da Ecomp está disponível no drive:
-	* [PHP e Orientação à Objetos](https://drive.google.com/drive/u/0/folders/0BxnTPcb6LZ0tfjc0QjZrR0dKT3ctanRVLW1aUXkzbWNiZWRJU21iM3AwNG1CenU4MlVrZ2s)
 
 * Um ótimo guia da linguagem como um todo, online:
 	* [Hacking with PHP](http://www.hackingwithphp.com/)
@@ -68,4 +66,3 @@ PRESENTES:
 * E talvez o mais importante, a documentação do PHP. Tem alguma dúvida, não sabe como fazer algo? JÁ PROCUROU NA DOCUMENTAÇÃO? LEIAM LEIAM E LEIAM!
 	* [Documentação em pt-BR](https://secure.php.net/manual/pt_BR/)
 
-* Qualquer dúvida estou a disposição!

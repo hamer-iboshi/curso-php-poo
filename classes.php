@@ -110,9 +110,9 @@ class Curso extends Membro{
 	}
 
 	public function printaDetalhes(){
-		echo "CURSO: ".$this->titulo."\n";
-		echo "DATA: ".$this->data."\n";
-		echo "INSTRUTOR: ".$this->instrutor."\n";
+		echo "CURSO:\n".$this->titulo."\n";
+		echo "DATA:\n".$this->data."\n";
+		echo "INSTRUTOR:\n".$this->instrutor."\n";
 	}
 
 	public function printaFrequencia(){

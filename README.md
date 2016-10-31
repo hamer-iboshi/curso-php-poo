@@ -29,11 +29,13 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 		* listaFrequencia
 * Output
 
-CURSO: Orientação à objetos e PHP
+CURSO: 
+######PHP e Orientação à objetos
 
-DATA: 27/10/2016
+DATA: 
+######27/10/2016
 
-INSTRUTOR: Hamer
+INSTRUTOR: [Hamer](https://github.com/hi15)
 
 PRESENTES:
 ######Laura

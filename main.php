@@ -5,7 +5,7 @@ $membro1 = new Membro("Laura", "04/09/2016", "Ass. de Projetos", "20163048", "BC
 $membro2 = new Membro("Gabriele", "04/09/2016", "Assessora de Comunicação", "20152790", "BCC");
 $membros = array($membro1, $membro2);
 
-$curso1 = new Curso("Orientação à objetos e PHP", "27/10/2016", "Hamer", $membros);
+$curso1 = new Curso("PHP e Orientação à objetos", "27/10/2016", "Hamer", $membros);
 //instancia objeto membro para cada membro presente
 $membro3 = new Membro("Fernando", "04/09/2016", "Assessor de Projetos", "20151234", "BCC");
 $curso1->adicionaMembro($membro3);

@@ -15,13 +15,13 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 		* setData
 		* ...
 		* imprimeMembro
-*CURSOS
+* CURSOS
 	* Atributos
 		* Titulo
 		* Data
 		* Instrutor
 		* Presentes
-	*Metodos	
+	* Metodos	
 		* getTitulo
 		* ...
 		* setTitulo
@@ -29,24 +29,43 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 		* listaFrequencia
 * Output
 
-CURSO: Orientação à objetos e PHP
-DATA: 27/10/2016
-INSTRUTOR: Hamer
+CURSO: 
+PHP e Orientação à objetos
+
+DATA: 
+27/10/2016
+
+INSTRUTOR: [Hamer](https://github.com/hi15)
+
 PRESENTES:
-	Laura
-	Gabriele
-	Fernando
-	Luana
-	Fernanda B.
-	Fernanda C.
-	Victor
-	Rebeca
-	Marlon
-	Eduarda
-	Guilherme
-	Gabriel
+
+Laura
+
+Gabriele 
+
+Fernando
+
+Luana 
+
+Fernanda B.
+
+Fernanda C.
+
+Victor
+
+Rebeca
+
+Marlon
+
+Eduarda
+
+Guilherme
+
+Gabriel
 
 ### Referências e dicas de leitura
+* Curso de PHP e Orientação à Objetos da Ecomp está disponível no drive:
+	* [PHP e Orientação à Objetos](https://drive.google.com/drive/u/0/folders/0BxnTPcb6LZ0tfjc0QjZrR0dKT3ctanRVLW1aUXkzbWNiZWRJU21iM3AwNG1CenU4MlVrZ2s)
 
 * Um ótimo guia da linguagem como um todo, online:
 	* [Hacking with PHP](http://www.hackingwithphp.com/)
@@ -63,3 +82,4 @@ PRESENTES:
 * E talvez o mais importante, a documentação do PHP. Tem alguma dúvida, não sabe como fazer algo? JÁ PROCUROU NA DOCUMENTAÇÃO? LEIAM LEIAM E LEIAM!
 	* [Documentação em pt-BR](https://secure.php.net/manual/pt_BR/)
 
+* Qualquer dúvida estou a disposição!

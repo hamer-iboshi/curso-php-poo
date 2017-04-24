@@ -1,0 +1,7 @@
+Membro
+	Atributos: id, Nome, curso,diretoria
+	Metodos: exibirMembro, get, set
+
+Cursos:
+	Atributo: Duração,Data, conteúdo, local, palestrante, presentes
+	Metodos: get, set, marcar presença,Imprimir lista de presentes;

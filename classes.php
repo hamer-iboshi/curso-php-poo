@@ -108,11 +108,16 @@ class Curso extends Membro{
 	public function adicionaMembro($membro){
 		array_push($this->presentes,$membro);
 	}
+	
+	public function quantidadePresente(){
+		return count($this->presentes);
+	}
 
 	public function printaDetalhes(){
 		echo "CURSO: ".$this->titulo."\n";
 		echo "DATA: ".$this->data."\n";
 		echo "INSTRUTOR: ".$this->instrutor."\n";
+		echo "QUANTIDADE DE PESSOAS PRESENTES: ".$this->quantidadePresente()."\n";
 	}
 
 	public function printaFrequencia(){

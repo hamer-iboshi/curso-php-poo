@@ -49,10 +49,15 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 	* [Documentação em pt-BR](https://secure.php.net/manual/pt_BR/)
 
 * OUTPUT
+
 CURSO: Orientação à objetos e PHP
+
 DATA: 22/04/2017
+
 INSTRUTOR: [Hamer](https://github.com/hi15)
+
 QUANTIDADE DE PESSOAS PRESENTES: 17
+
 PRESENTES:
 	
 	Bruno Piccoli

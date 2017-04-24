@@ -27,6 +27,7 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 		* setTitulo
 		* ...
 		* listaFrequencia
+		* quantidadePresente
 * Output
 
 CURSO: 

@@ -28,41 +28,6 @@ ATIVIDADE: CRIAR 2 CLASSES EM PHP
 		* ...
 		* listaFrequencia
 		* quantidadePresente
-* Output
-
-CURSO: 
-PHP e Orientação à objetos
-
-DATA: 
-27/10/2016
-
-INSTRUTOR: [Hamer](https://github.com/hi15)
-
-PRESENTES:
-
-Laura
-
-Gabriele 
-
-Fernando
-
-Luana 
-
-Fernanda B.
-
-Fernanda C.
-
-Victor
-
-Rebeca
-
-Marlon
-
-Eduarda
-
-Guilherme
-
-Gabriel
 
 ### Referências e dicas de leitura
 * Curso de PHP e Orientação à Objetos da Ecomp está disponível no drive:
@@ -83,4 +48,52 @@ Gabriel
 * E talvez o mais importante, a documentação do PHP. Tem alguma dúvida, não sabe como fazer algo? JÁ PROCUROU NA DOCUMENTAÇÃO? LEIAM LEIAM E LEIAM!
 	* [Documentação em pt-BR](https://secure.php.net/manual/pt_BR/)
 
+* OUTPUT
+
+CURSO: Orientação à objetos e PHP
+
+DATA: 22/04/2017
+
+INSTRUTOR: [Hamer](https://github.com/hi15)
+
+QUANTIDADE DE PESSOAS PRESENTES: 17
+
+PRESENTES:
+	
+	Bruno Piccoli
+	
+	Daniel
+	
+	Eduarda
+	
+	Enzo M
+	
+	Fernando S.
+	
+	Giulia
+	
+	Luiz Cesar
+	
+	Lucas S
+	
+	Marcelo
+	
+	Maria Eduarda
+	
+	Pedro L
+	
+	Thales
+	
+	Luana
+	
+	Milena
+	
+	Wellington
+	
+	Fernanda B
+	
+	Diego
+	
+	...
+	
 * Qualquer dúvida estou a disposição!
